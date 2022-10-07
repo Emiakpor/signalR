@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61i3XI3B2Lbv1KXr95TaSkqWFRPwoX2noDPvtqKL1a0fOUPs15yQPftH76tb0rNjNRG530f7FY8ashDzWgHdFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emiakpor.ibiri\\Desktop\\Emiakpor Backup\\asp\\SignaRTutorial\\SignaRTutorial\\SignaRTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emiakpor.ibiri\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.2\\microsoft.aspnet.signalr.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
